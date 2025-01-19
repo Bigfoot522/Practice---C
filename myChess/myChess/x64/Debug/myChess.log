@@ -1,0 +1,7 @@
+﻿  function.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\User\source\repos\myChess\function.c(1162,1): warning C4715: 'castling': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\User\source\repos\myChess\function.c(1654,1): warning C4715: 'defenceK': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\User\source\repos\myChess\function.c(1678,1): warning C4715: 'defencek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  myChess.vcxproj -> C:\Users\User\source\repos\myChess\x64\Debug\myChess.exe
